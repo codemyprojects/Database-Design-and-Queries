@@ -1,4 +1,11 @@
-# Database-Design-and-Queries
+
+
+
+
+# Database-Design-and-ER-Diagram
+
+<img width="1536" height="1024" alt="NTILU_DR_Diagram" src="https://github.com/user-attachments/assets/cabeea3b-ed59-4d99-96c6-c8f8e048d0a1" />
+
 
 ER Diagram Description – NTILU Database
 
